@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "React Native",
+    "image": "react"
+  },
+  {
+    "id": "2",
+    "name": "Node JS",
+    "image": "nodejs"
+  },
+  {
+    "id": "10",
+    "name": "Redux",
+    "image": "redux"
+  },
+  {
+    "id": "3",
+    "name": "Next JS",
+    "image": "nextjs"
+  },
+  {
+    "id": "4",
+    "name": "MongoDB",
+    "image": "mongo"
+  },
+  {
+    "id": "5",
+    "name": "Postgres SQL",
+    "image": "postgres"
+  },
+  {
+    "id": "6",
+    "name": "Typescript",
+    "image": "typescript"
+  },
+  {
+    "id": "7",
+    "name": "Docker",
+    "image": "docker"
+  },
+  {
+    "id": "8",
+    "name": "Kubernetes",
+    "image": "k8s"
+  },
+  {
+    "id": "9",
+    "name": "Redis",
+    "image": "redis"
+  },
+  {
+    "id": "12",
+    "name": "Graphql",
+    "image": "graphql"
+  },
+  {
+    "id": "11",
+    "name": "Figma",
+    "image": "figma"
+  }
+]
